@@ -7,8 +7,7 @@ Android developer
 
 *   🌍  I'm based in India 🇮🇳
 *   ✉️  You can contact me at [v.j.ajaybharadwaj@gmail.com](mailto:v.j.ajaybharadwaj@gmail.com)
-*   🚀  I'm currently working on [AK Infopark](http://akinfopark.com/)
-*   🧠  I'm learning Android ,Java ,Kotlin & KMM
+*   🧠  I'm learning Android ,Java ,Kotlin,CMP & KMM
 
 ### Skills 
 <p align="left">
